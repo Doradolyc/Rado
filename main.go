@@ -18,7 +18,8 @@ $ curl "http://localhost:9999/login" -X POST -d 'username=geektutu&password=1234
 $ curl "http://localhost:9999/xxx"
 404 NOT FOUND: /xxx
 
-This is develop branch
+
+Hello Rado!
 */
 
 import (
